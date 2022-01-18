@@ -1,1 +1,28 @@
-# m3-hw3-sersun-claire
+# Accessibility and SEO Findings
+<img scr="Screenshots/Screen Shot 2022-01-18 at 3.11.19 PM.jpg" alt="Screenshot of Lighthouse Accessibility and SEO Findings 1">
+<img scr="Screenshots/Screen Shot 2022-01-18 at 3.11.29 PM.jpg" alt="Screenshot of Lighthouse Accessibility and SEO Findings 2">
+<img scr="Screenshots/Screen Shot 2022-01-18 at 3.11.38 PM.jpg" alt="Screenshot of Lighthouse Accessibility and SEO Findings 3">
+<img scr="Screenshots/Screen Shot 2022-01-18 at 3.11.45 PM.jpg" alt="Screenshot of Lighthouse Accessibility and SEO Findings 4">
+<img scr="Screenshots/Screen Shot 2022-01-18 at 3.11.51 PM.jpg" alt="Screenshot of Lighthouse Accessibility and SEO Findings 5">
+<img scr="Screenshots/Screen Shot 2022-01-18 at 3.11.58 PM.jpg" alt="Screenshot of Lighthouse Accessibility and SEO Findings 6">
+<img scr="Screenshots/Screen Shot 2022-01-18 at 3.12.05 PM.jpg" alt="Screenshot of Lighthouse Accessibility and SEO Findings 7">
+<img scr="Screenshots/Screen Shot 2022-01-18 at 3.13.07 PM.jpg" alt="Screenshot of Lighthouse Accessibility and SEO Findings 8">
+<img scr="Screenshots/Screen Shot 2022-01-18 at 3.13.14 PM.jpg" alt="Screenshot of Lighthouse Accessibility and SEO Findings 9">
+<img scr="Screenshots/Screen Shot 2022-01-18 at 3.13.20 PM.jpg" alt="Screenshot of Lighthouse Accessibility and SEO Findings 10">
+<img scr="Screenshots/Screen Shot 2022-01-18 at 3.13.27 PM.jpg" alt="Screenshot of Lighthouse Accessibility and SEO Findings 11">
+<img scr="Screenshots/Screen Shot 2022-01-18 at 3.13.34 PM.jpg" alt="Screenshot of Lighthouse Accessibility and SEO Findings 12">
+<img scr="Screenshots/Screen Shot 2022-01-18 at 3.13.40 PM.jpg" alt="Screenshot of Lighthouse Accessibility and SEO Findings 13">
+<img scr="Screenshots/Screen Shot 2022-01-18 at 3.13.48 PM.jpg" alt="Screenshot of Lighthouse Accessibility and SEO Findings 14">
+<img scr="Screenshots/Screen Shot 2022-01-18 at 3.13.55 PM.jpg" alt="Screenshot of Lighthouse Accessibility and SEO Findings 15">
+<img scr="Screenshots/Screen Shot 2022-01-18 at 3.14.03 PM.jpg" alt="Screenshot of Lighthouse Accessibility and SEO Findings 16">
+<img scr="Screenshots/Screen Shot 2022-01-18 at 3.14.09 PM.jpg" alt="Screenshot of Lighthouse Accessibility and SEO Findings 17">
+<img scr="Screenshots/Screen Shot 2022-01-18 at 3.14.15 PM.jpg" alt="Screenshot of Lighthouse Accessibility and SEO Findings 18">
+<img scr="Screenshots/Screen Shot 2022-01-18 at 3.14.21 PM.jpg" alt="Screenshot of Lighthouse Accessibility and SEO Findings 19">
+<img scr="Screenshots/Screen Shot 2022-01-18 at 3.14.26 PM.jpg" alt="Screenshot of Lighthouse Accessibility and SEO Findings 20">
+<img scr="Screenshots/Screen Shot 2022-01-18 at 3.14.32 PM.jpg" alt="Screenshot of Lighthouse Accessibility and SEO Findings 21">
+<img scr="Screenshots/Screen Shot 2022-01-18 at 3.14.38 PM.jpg" alt="Screenshot of Lighthouse Accessibility and SEO Findings 22">
+<img scr="Screenshots/Screen Shot 2022-01-18 at 3.14.54 PM.jpg" alt="Screenshot of Lighthouse Accessibility and SEO Findings 23">
+<img scr="Screenshots/Screen Shot 2022-01-18 at 3.15.00 PM.jpg" alt="Screenshot of Lighthouse Accessibility and SEO Findings 24">
+<img scr="Screenshots/Screen Shot 2022-01-18 at 3.15.07 PM.jpg" alt="Screenshot of Lighthouse Accessibility and SEO Findings 25">
+<img scr="Screenshots/Screen Shot 2022-01-18 at 3.15.13 PM.jpg" alt="Screenshot of Lighthouse Accessibility and SEO Findings 26">
+<img scr="Screenshots/Screen Shot 2022-01-18 at 3.15.18 PM.jpg" alt="Screenshot of Lighthouse Accessibility and SEO Findings 27">
